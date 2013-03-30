@@ -27,7 +27,6 @@
 		08DC90C20B67078300799A45 /* prefs.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = prefs.h; path = ../../include/prefs.h; sourceTree = SOURCE_ROOT; };
 		08DC90C40B67079800799A45 /* sys.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = sys.h; path = ../../include/sys.h; sourceTree = SOURCE_ROOT; };
 		08DC90C50B6707AC00799A45 /* user_strings_unix.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = user_strings_unix.h; path = ../../Unix/user_strings_unix.h; sourceTree = SOURCE_ROOT; };
-		08DC90C60B6707B400799A45 /* config.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = config.h; path = ../../Unix/config.h; sourceTree = SOURCE_ROOT; };
 		08DC90C70B6707BE00799A45 /* sysdeps.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = sysdeps.h; path = ../../Unix/sysdeps.h; sourceTree = SOURCE_ROOT; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
@@ -36,6 +35,10 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* SheepShaverPrefs_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SheepShaverPrefs_Prefix.pch; sourceTree = "<group>"; };
+		820BA17D1706B42100AB37FC /* config-macosx-ppc_32.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "config-macosx-ppc_32.h"; sourceTree = "<group>"; };
+		820BA17E1706B42100AB37FC /* config-macosx-x86_32.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "config-macosx-x86_32.h"; sourceTree = "<group>"; };
+		820BA17F1706B42100AB37FC /* config-macosx-x86_64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "config-macosx-x86_64.h"; sourceTree = "<group>"; };
+		820BA1801706B42100AB37FC /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* SheepShaverPrefs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SheepShaverPrefs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -91,7 +94,10 @@
 				08DC90C20B67078300799A45 /* prefs.h */,
 				08DC90C40B67079800799A45 /* sys.h */,
 				08DC90C50B6707AC00799A45 /* user_strings_unix.h */,
-				08DC90C60B6707B400799A45 /* config.h */,
+				820BA17D1706B42100AB37FC /* config-macosx-ppc_32.h */,
+				820BA17E1706B42100AB37FC /* config-macosx-x86_32.h */,
+				820BA17F1706B42100AB37FC /* config-macosx-x86_64.h */,
+				820BA1801706B42100AB37FC /* config.h */,
 				08DC90C70B6707BE00799A45 /* sysdeps.h */,
 				08DC90BC0B67074C00799A45 /* prefs_items.cpp */,
 				08DC90BE0B67075D00799A45 /* prefs_unix.cpp */,
@@ -162,9 +168,15 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SheepShaverPrefs" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* SheepShaverPrefs */;
 			projectDirPath = "";
+			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* SheepShaverPrefs */,
 			);
@@ -221,6 +233,8 @@
 		C01FCF4B08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
@@ -235,6 +249,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_CFLAGS = "$(inherited)";
 				PRODUCT_NAME = SheepShaverPrefs;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -243,10 +258,8 @@
 		C01FCF4C08A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					ppc,
-					i386,
-				);
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_INPUT_FILETYPE = sourcecode.cpp.objcpp;
 				GCC_MODEL_TUNING = G5;
@@ -258,6 +271,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_CFLAGS = "$(inherited)";
 				PRODUCT_NAME = SheepShaverPrefs;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

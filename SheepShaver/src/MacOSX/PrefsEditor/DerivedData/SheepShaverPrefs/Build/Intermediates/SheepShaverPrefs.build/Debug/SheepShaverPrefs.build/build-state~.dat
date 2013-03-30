@@ -1,0 +1,292 @@
+TSheepShaverPrefs
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist Info.plist
+cStripNIB /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000514303B000000000000000AA
+t1363346352
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050A0BB4100000000000001E5
+t1352710977
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A0F3E00000000000006730
+t1352725472
+s26416
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp
+c00000000515669780000000000000F15
+t1364617592
+s3861
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs.cpp
+c0000000051566978000000000000250F
+t1364617592
+s9487
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp
+c00000000515669780000000000000FAD
+t1364617592
+s4013
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/PrefsEditor.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/SheepShaverPrefs
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/SheepShaverPrefs.LinkFileList
+c0000000051567C7900000000000003F3
+t1364622457
+s1011
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs_items.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs_unix.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/SheepShaverPrefs
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/SheepShaverPrefs.LinkFileList
+c0000000051567C7900000000000003FD
+t1364622457
+s1021
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/MacOS/SheepShaverPrefs
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/InfoPlist.strings
+c000000005156697800000000000000D8
+t1364617592
+s216
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib
+c000000005156697800000000000000AA
+t1364617592
+s170
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm
+c000000005156697800000000000029F5
+t1364617592
+s10741
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m
+c000000005156697800000000000003BD
+t1364617592
+s957
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c00000000515669780000000000000358
+t1364617592
+s856
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs.cpp
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies008e4df9b306b741^2b4b6cf9b306b741^---0#1#0#--18"Check dependencies36"2D782D89-5E55-48BF-9A8D-D269A64B2EB5-
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/PrefsEditor.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/main.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs_items.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/prefs_unix.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386315257.478228
+e386315259.439715
+r0
+xCompileC
+xDerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm:23:
+o/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found
+o#include "config.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mmac8c7af9b306b741^cd9270fbb306b741^-298"In file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm:23:/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found#include "config.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm0000000000000000^3401"CompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o PrefsEditor.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DPREFS_EDITOR -DSTANDALONE_PREFS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/SheepShaverPrefs.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/PrefsEditor.mm -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/PrefsEditor.o36"0F7FEB93-B8C4-487D-95CB-0902A4E5EF3A-
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386315257.477979
+e386315259.339286
+r1
+xCompileC
+xDerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m207e7af9b306b741^94db56fbb306b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m0000000000000000^3357"CompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DPREFS_EDITOR -DSTANDALONE_PREFS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/SheepShaverPrefs.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/main.m -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/main.o36"4F8A0E4B-7180-4C44-AB02-7ABB98A27AE5-
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386315257.478757
+e386315257.622699
+r0
+xCompileC
+xDerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp:21:
+o/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found
+o#include "config.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp96b47af9b306b741^605b9ff9b306b741^-305"In file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp:21:/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found#include "config.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"'config.h' file not found-386315257#18446744073709551615#0#1(2@117"In file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp:21:-386315257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/prefs_items.cpp0000000000000000^20#9#20#9#857#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@81"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/Unix/sysdeps.h0000000000000000^27#9#27#9#979#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@107"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp0000000000000000^3415"CompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o ../../prefs_items.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DPREFS_EDITOR -DSTANDALONE_PREFS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/SheepShaverPrefs.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../prefs_items.cpp -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_items.o36"6DF067B4-7909-4F8E-ABD1-38FB650AB45B-
+
+CCompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386315257.478845
+e386315257.622753
+r0
+xCompileC
+xDerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp:21:
+o/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found
+o#include "config.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cppc4b17af9b306b741^07609ff9b306b741^-309"In file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp:21:/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/sysdeps.h:28:10: fatal error: 'config.h' file not found#include "config.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"'config.h' file not found-386315257#18446744073709551615#0#1(2@121"In file included from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp:21:-386315257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@86"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/Unix/prefs_unix.cpp0000000000000000^20#9#20#9#874#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@81"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/Unix/sysdeps.h0000000000000000^27#9#27#9#979#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@111"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp0000000000000000^3419"CompileC DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o ../../Unix/prefs_unix.cpp normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DPREFS_EDITOR -DSTANDALONE_PREFS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/SheepShaverPrefs.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/../../Unix/prefs_unix.cpp -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/prefs_unix.o36"11AF4172-8F3A-4B15-AC5B-20513227842B-
+
+CCopyStringsFile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s386315257.449041
+e386315257.455983
+r1
+xCopyStringsFile
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings0b0e73f9b306b741^52ba74f9b306b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/InfoPlist.strings0000000000000000^547"CopyStringsFile DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"4E012CBD-81B3-4DDF-AADD-DFF61FBF5193-
+
+CCreateUniversalBinary /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/MacOS/SheepShaverPrefs normal "x86_64 i386"
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/i386/SheepShaverPrefs normal i386
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Intermediates/SheepShaverPrefs.build/Debug/SheepShaverPrefs.build/Objects-normal/x86_64/SheepShaverPrefs normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist Info.plist
+s386315257.432226
+e386315257.439597
+r1
+xProcessInfoPlistFile
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist2f156ff9b306b741^cb9e70f9b306b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/Info.plist0000000000000000^612"ProcessInfoPlistFile DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist Info.plist    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    builtin-infoPlistUtility Info.plist -genpkginfo /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Info.plist36"0DBFB9E2-1C62-4F08-8C0B-446CEA3F36E4-
+
+CStripNIB /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib
+s386315257.447828
+e386315257.466752
+r1
+xStripNIB
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Processing /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nibbc0873f9b306b741^c3f277f9b306b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib/0000000000000000^593"StripNIB English.lproj/MainMenu.nib    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/English.lproj/MainMenu.nib36"3E1C6183-749F-4C7F-9641-AEB7E854DC5C-
+
+CTouch /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/PrefsEditor/DerivedData/SheepShaverPrefs/Build/Products/Debug/SheepShaverPrefs.app
+r0
+

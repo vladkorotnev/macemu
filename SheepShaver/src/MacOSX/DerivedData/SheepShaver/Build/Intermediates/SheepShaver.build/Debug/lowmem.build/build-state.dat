@@ -1,0 +1,97 @@
+Tlowmem
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000514303B000000000000000AA
+t1363346352
+s170
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c
+c00000000515669780000000000001D41
+t1364617592
+s7489
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.LinkFileList
+c0000000051567C4100000000000000A8
+t1364622401
+s168
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.LinkFileList
+c0000000051567C4100000000000000AA
+t1364622401
+s170
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/lowmem
+t2
+s0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf1460ac1b306b741^0a682ec1b306b741^---0#1#0#--18"Check dependencies36"B82852E1-31EE-4A8D-90FC-ACF3B52162F8-
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s386315201.183334
+e386315201.790223
+r1
+xCompileC
+xDerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c:245:8: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]
+o        (void)close(fd);
+o              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.ce9432fc1b306b741^224fcac1b306b741^-274"/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c:245:8: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]        (void)close(fd);              ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c0000000000000000^3329"CompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o ../../../BasiliskII/src/Unix/Darwin/lowmem.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -Wno-trigraphs -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-generated-files.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-project-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/DerivedSources/i386 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem.o36"99A527C3-9195-49E3-86BD-5BB4FF6D51BD-
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s386315201.183524
+e386315201.790194
+r1
+xCompileC
+xDerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c:245:8: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]
+o        (void)close(fd);
+o              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.ca4192fc1b306b741^6e4dcac1b306b741^-274"/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c:245:8: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]        (void)close(fd);              ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c0000000000000000^3343"CompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o ../../../BasiliskII/src/Unix/Darwin/lowmem.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-generated-files.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/lowmem-project-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../../../BasiliskII/src/Unix/Darwin/lowmem.c -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem.o36"D72AD47B-135B-4B63-95DC-704625B4EF6D-
+
+CCreateUniversalBinary /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/lowmem normal "x86_64 i386"
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/i386/lowmem normal i386
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/lowmem.build/Objects-normal/x86_64/lowmem normal x86_64
+r0
+

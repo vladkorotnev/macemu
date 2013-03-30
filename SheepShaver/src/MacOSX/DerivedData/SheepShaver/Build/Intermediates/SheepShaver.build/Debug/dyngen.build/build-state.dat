@@ -1,0 +1,100 @@
+Tdyngen
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000514303B000000000000000AA
+t1363346352
+s170
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp
+c0000000051566978000000000001B290
+t1364617592
+s111248
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/dyngen.c
+c00000000515669780000000000016832
+t1364617592
+s92210
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/cxxdemangle.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/dyngen
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/dyngen.LinkFileList
+c0000000051567C410000000000000155
+t1364622401
+s341
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/dyngen.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/dyngen
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/dyngen.LinkFileList
+c0000000051567C410000000000000159
+t1364622401
+s345
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/dyngen.o
+t2
+s0
+
+N/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/dyngen
+t2
+s0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/dyngen.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesba8605c1b306b741^e1b838c1b306b741^---0#1#0#--18"Check dependencies36"228C2419-0353-44FE-805A-154F880D82F4-
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/cxxdemangle.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/dyngen.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/dyngen.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386315201.583261
+e386315201.689087
+r1
+xCompileC
+xDerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o
+x/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cppf96495c1b306b741^f834b7c1b306b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp0000000000000000^3516"CompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o ../kpx_cpu/src/cpu/jit/cxxdemangle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/dyngen-generated-files.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/dyngen-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/dyngen-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/dyngen-project-headers.hmap -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/DerivedSources -F/Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug -mdynamic-no-pic -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.d --serialize-diagnostics /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.dia -c /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/cxxdemangle.cpp -o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/cxxdemangle.o36"9F5AFF3E-2A24-4C48-8B27-A7823F055E34-
+
+CCompileC DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/dyngen.o /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/../kpx_cpu/src/cpu/jit/dyngen.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCreateUniversalBinary /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Products/Debug/dyngen normal "x86_64 i386"
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/i386/dyngen normal i386
+r0
+
+CLd /Users/tigra/Desktop/Coding/macemu/SheepShaver/src/MacOSX/DerivedData/SheepShaver/Build/Intermediates/SheepShaver.build/Debug/dyngen.build/Objects-normal/x86_64/dyngen normal x86_64
+r0
+
